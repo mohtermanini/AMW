@@ -24,7 +24,7 @@ export default function LoginPage({ setUser }) {
             e.preventDefault();
             const form = e.target;
             loadingCounter.loadingStart();
-            const data = await urls.fetch("POST", "http://194.32.76.82:7542/api/User/Login", {
+            const data = await urls.fetch("POST", urls.base + urls.users.login, {
                 "name": form.username.value,
                 "password": form.password.value
             })

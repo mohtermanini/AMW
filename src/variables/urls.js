@@ -24,7 +24,8 @@ export const urls = {
         "index": "User/GetAll",
         "store": "User/Create",
         "edit": "User/Edit",
-        "delete": "User/Delete"
+        "delete": "User/Delete",
+        "login": "User/Login"
     },
     "reports": {
         "services_expenses": "Reports/GetServicesExpenses",
