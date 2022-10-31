@@ -1,6 +1,6 @@
 
 export const urls = {
-    "base": "http://194.32.76.82:7542/api/",
+    "base": "https://194.32.76.82:7542/api/",
     "material": {
         "index": "Material/GetAll",
         "store": "Material/Create",
