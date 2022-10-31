@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AMW/static/css/main.c56f7e91.css",
+    "main.js": "/AMW/static/js/main.bbbaedeb.js",
+    "static/js/787.aecefed6.chunk.js": "/AMW/static/js/787.aecefed6.chunk.js",
+    "index.html": "/AMW/index.html",
+    "static/media/cross-icon.svg": "/AMW/static/media/cross-icon.d01fca1370f268d54811abce4fc3ad36.svg",
+    "static/media/small-check-mark-icon.svg": "/AMW/static/media/small-check-mark-icon.9cd002d50feeba9d3dd12a10d5e14f5a.svg",
+    "main.c56f7e91.css.map": "/AMW/static/css/main.c56f7e91.css.map",
+    "main.bbbaedeb.js.map": "/AMW/static/js/main.bbbaedeb.js.map",
+    "787.aecefed6.chunk.js.map": "/AMW/static/js/787.aecefed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c56f7e91.css",
+    "static/js/main.bbbaedeb.js"
+  ]
+}
